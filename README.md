@@ -22,6 +22,5 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 
-//screenshot goes here//
 
 https://abeshaw97.github.io/City-Forecast/
